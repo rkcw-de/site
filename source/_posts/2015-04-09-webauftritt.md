@@ -7,7 +7,7 @@ tags:
 comments: false
 ---
 
-Da wir in der Vergangenheit mit Hacker-Agriffe zu kämpfen hatten und die alte Webseite voll mit Schadcode verseucht war, haben wir uns entschieden neuanzufangen und unser Webauftritt komplett zu überarbeiten.
+Da wir in der Vergangenheit mit Hacker-Agriffe zu kämpfen hatten und die alte Webseite voll mit Schadcode verseucht war, haben wir uns entschieden neu anzufangen und unser Webauftritt komplett zu überarbeiten.
 
 Wir bitten um Verständnis, wenn Informationen nicht ganz aktuell oder unvollständig sind. Wir werden nach und nach dies tun.
 
