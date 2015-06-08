@@ -10,15 +10,13 @@ photos:
 - 2015/05/29/420er-hafenrallye-conger-suedwestcup-2015/Ausschreibung-420er-und-Conger-2.jpg
 ---
 
-[link_ausschreibung]: 2015/05/29/420er-hafenrallye-conger-suedwestcup-2015/Ausschreibung-420er-und-Conger.pdf
-
-Am 13. und 14. Juni findet die "420er Hafenrallye 2015 und Conger Südwestcup" Regatta am RKC statt. Die Ausschreibung findest Du [hier][link_ausschreibung]. Wir wünschen alle Teilnehmer viel Erfolg!
+Am 13. und 14. Juni findet die "420er Hafenrallye 2015 und Conger Südwestcup" Regatta am RKC statt. {% asset_link Ausschreibung-420er-und-Conger.pdf 'Hier' %} ist die offizielle Ausschreibung. Wir wünschen alle Teilnehmer viel Erfolg!
 
 <!-- more -->
 
 Wichtig für Teilnehmer, die das erste Mal beim RKC-Wörth zu Gast sind:
 
-Die meisten Navigationsgeräte haben die Club-Anschrift leider falsch gespeichert, andere führen den Autofahrer über eine Straße mit “Durchfahrt verboten”. Deshalb empfehlen wir die Anfahrt über B9 Ausfahrt Jockgrim und dann in Richtung Wörther Landeshafen (Hafenzeichen folgen). Zusätzlich zur Anfahrtbeschreibung können die Koordinaten N 49°3.222', E 8°18.231 ins Navigationsgerät eingegeben werden.
+Die meisten Navigationsgeräte haben die Club-Anschrift leider falsch gespeichert, andere führen den Autofahrer über eine Straße mit “Durchfahrt verboten”. Deshalb empfehlen wir die Anfahrt über B9 Ausfahrt Jockgrim und dann in Richtung Wörther Landeshafen über die Hafenstraße (Hafenzeichen folgen). Zusätzlich zur Anfahrtbeschreibung können die Koordinaten N 49°3.222', E 8°18.231 ins Navigationsgerät eingegeben werden.
 
 {% googlemaps 49.053239 8.302832 13 100% 450px %}
   Sie finden unser Verein hier, 49.053239, 8.302832, sailing.png
