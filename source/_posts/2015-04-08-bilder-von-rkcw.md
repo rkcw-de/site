@@ -1,6 +1,7 @@
 layout: gallery
 title: "Bilder von RKCW"
 date: 2015-04-08 23:32:20
+author: Webmaster
 categories:
 - Bilder
 tags:
@@ -13,6 +14,7 @@ photos:
 - 2015/04/08/bilder-von-rkcw/5.jpg
 - 2015/04/08/bilder-von-rkcw/6.jpg
 - 2015/04/08/bilder-von-rkcw/7.jpg
+comments: false
 ---
 
 Eine kleine Bildergalerie von RKCW.

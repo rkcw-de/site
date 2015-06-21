@@ -1,5 +1,6 @@
 title: "Das Wetter und nützliche Links"
 date: 2015-03-30 21:20:35
+author: Webmaster
 categories:
 - News
 tags:
