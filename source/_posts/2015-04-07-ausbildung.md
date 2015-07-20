@@ -11,7 +11,7 @@ comments: false
 Weiterführende Informationen finden Sie unter den folgenden Links zum Download:
 
 #### **Amtlicher Sportküstenführerschein (SKS), Amtlicher Sportbootführerschein – See, Funkbetriebszeugnis (SRC)**
-  SBF-See und SKS **2015-16** (Ausschreibung folgt dem nächst)
+  SBF-See und SKS **2015-16** {% asset_link sbf-see_und_sks_2015-16.pdf 'Ausschreibung' %} und {% asset_link sbf-see_und_sks_infoabend_2015-16.pdf 'Infoabend' %}
   SBF-See und SKS 2014-15 {% asset_link sbf-see_und_sks_2014-15.pdf 'Ausschreibung' %}
 
 #### **Amtlicher Sportbootführerschein – Binnen (SBF-Binnen)**
