@@ -4,12 +4,11 @@ categories:
 - Regatta
 tags:
 - Ausschreibung
-- Regatta
 - Anfahrt
 comments: false
 ---
 
-Termine, Ausschreibungen und Meldungen für die Regattasaison 2015
+Termine, Ausschreibungen und Meldungen für die Regattasaison 201x
 
 <!-- more -->
 

@@ -7,6 +7,7 @@ tags:
 - Finn Dinghy
 photos:
 - 2015/04/23/silberschaekel-regatta-2015/ynglingregatta-header.jpg
+comments: false
 ---
 
 Kommendes Wochenende findet am RKC die 3te Silberschäkel Yngling-Regatta statt. {% asset_link ynglingregatta.jpg 'Hier' %} ist die offizielle Ausschreibung. Wir wünschen alle Teilnehmer viel Erfolg!
