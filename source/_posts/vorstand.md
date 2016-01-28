@@ -15,7 +15,7 @@ Der Vorstand ist unter folgender [Mail-Adresse](mailto:vorstand@rkcw.de) erreich
 
 #### 1. Vorsitzender
 **Willi Jörg** – Tel.: 07272-75487
-[Mail-Kontakt zum 1. Vorsitzenden](mailto:1vorsizender@rkcw.de)
+[Mail-Kontakt zum 1. Vorsitzenden](mailto:1vorsitzender@rkcw.de)
 
 #### 2. Vorsitzender
 **Zafer Özalt** – Tel.: 07152-908375
