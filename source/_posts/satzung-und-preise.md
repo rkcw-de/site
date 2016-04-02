@@ -1,7 +1,7 @@
 title: "Satzung und Preise"
 date: 2015-01-01 12:10:00
 categories:
-- Verein-Infos
+- Verein
 tags:
 - Abbuchungsvollmacht
 - Satzung

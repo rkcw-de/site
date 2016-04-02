@@ -1,7 +1,7 @@
 title: "Vorstand"
 date: 2015-01-01 12:20:00
 categories:
-- Verein-Infos
+- Verein
 tags:
 - Vorstand
 comments: false

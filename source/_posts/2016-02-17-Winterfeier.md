@@ -3,7 +3,7 @@ title: "Winterfeier ... Bagger ade"
 date: 2016-02-17 23:45:41
 author: Webmaster
 categories:
-- News
+- Infos
 tags:
 - Winterfeier
 - Bagger

@@ -2,7 +2,7 @@ title: "Webautritt wird überarbeitet"
 date: 2015-04-09 07:00:12
 author: Webmaster
 categories:
-- News
+- Infos
 tags:
 - Webauftritt
 comments: false

@@ -3,7 +3,7 @@ title: "Krananlage durch TÜV abgenommen"
 date: 2015-06-21 13:08:20
 author: Webmaster
 categories:
-- News
+- Infos
 tags:
 - Krananlage
 - TÜV-Abnahme

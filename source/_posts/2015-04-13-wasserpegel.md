@@ -2,7 +2,7 @@ title: "Wasserpegel"
 date: 2015-04-13 22:40:33
 author: Vorstand
 categories:
- - News
+ - Infos
 tags:
  - Hochwasser
  - Segelbetrieb

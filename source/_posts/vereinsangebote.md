@@ -1,7 +1,7 @@
 title: "Vereinsangebote"
 date: 2015-01-01 12:30:00
 categories:
-- Verein-Infos
+- Verein
 comments: false
 ---
 

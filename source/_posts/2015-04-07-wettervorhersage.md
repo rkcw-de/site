@@ -2,7 +2,7 @@ title: "Das Wetter und nützliche Links"
 date: 2015-03-30 21:20:35
 author: Webmaster
 categories:
-- News
+- Infos
 tags:
 - Wettervorhersage
 - Wetterstation
@@ -19,7 +19,7 @@ comments: false
 [link_dwd]: http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&_pageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter&T18605618401151909347274gsbDocumentPath=Navigation%2FSchifffahrt%2FSeewetter%2FHome__node.html%3F__nnn%3Dtrue
 [link_wetterstation]: http://wetterstation.rkcw.de/wetter.html
 
-**Das Wetter am RKC** wird von einer [**Wetterstation**][link_wetterstation] am Clubhaus erfasst. Für die **Wettervorhersage** nutzen wir bekannte Wetter- und Onlinedienste.
+**Das Wetter am RKC** wird von einer [**Wetterstation**][link_wetterstation] am Clubhaus erfasst. Für die **Wettervorhersage** hier ein paar bekannte Wetter- und Onlinedienste.
 
 {% iframe http://forecast.io/embed/#lat=48.937&lon=8.218&name=Wörth%20am%20Rhein&color=#999&units=si 100% 245 %} 
 

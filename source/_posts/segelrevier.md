@@ -1,7 +1,7 @@
 title: "Segelrevier"
 date: 2015-01-01 12:40:00
 categories:
-- Verein-Infos
+- Verein
 tags:
 - Revier
 comments: false

@@ -2,7 +2,7 @@ title: "Hochwasser am RKCW"
 date: 2015-05-07 21:14:44
 author: Webmaster
 categories:
-- News
+- Infos
 tags:
 - Hochwasser
 photos:

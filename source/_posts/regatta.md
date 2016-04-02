@@ -3,7 +3,7 @@ date: 2015-02-01 09:00:00
 categories:
 - Regatta
 tags:
-- Infos
+- Regatta Ausschreibung
 - Anfahrt
 comments: false
 ---

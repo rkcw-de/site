@@ -1,7 +1,7 @@
 title: "Der Verein"
 date: 2015-01-01 12:50:00
 categories:
- - Verein-Infos
+ - Verein
 comments: false
 ---
 
