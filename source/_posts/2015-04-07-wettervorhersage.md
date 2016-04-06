@@ -34,7 +34,7 @@ comments: false
 ## nützliche Links
 
 - [norwegischer Wetterdienst][link_yr_no]
-- [deutscher Wetterdienst][link_dwd]
+- deutscher Wetterdienst (link offline)
 - [windyty][link_windyty]
 - [forecast.io][link_forecast_io]
 - [Wind Finder][link_windfinder]

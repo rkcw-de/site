@@ -1,18 +1,16 @@
-title: "4. Silberschäkel Regatta"
-date: 2016-03-30 09:00:00
+title: hafenrally conger suedwestcup 2016
 categories:
 - Regatta
 tags:
-- Yngling
-- Finn Dinghy
-- J22
+- 420
+- Conger
 photos:
-- 2016/03/30/Silberschaekel-Regatta-2016/ynglingregatta-header-1.jpg
-- 2016/03/30/Silberschaekel-Regatta-2016/ynglingregatta-header-2.jpg
+- 2015/05/29/420er-hafenrallye-conger-suedwestcup-2015/Ausschreibung-420er-und-Conger-1.jpg
+- 2015/05/29/420er-hafenrallye-conger-suedwestcup-2015/Ausschreibung-420er-und-Conger-2.jpg
 comments: false
 ---
 
-Am 23. und 24. April findet die 4. Silberschäkel Regatta für die Klassen Finn Dinghy, Yngling und J22 am RKC statt.
+Am 11. und 12. Juni findet die "420er Hafenrallye und Conger Südwestcup" Regatta am RKC statt.
 
 <!-- more -->
 
@@ -21,9 +19,9 @@ Am 23. und 24. April findet die 4. Silberschäkel Regatta für die Klassen Finn 
 | **Wettfahrtregeln:** | ISAF, DSV-WO/RO, Klassenvorschriften, RKC-Segelanweisungen |
 | **Wettfahrten:** | max. 5 Wettfahrten (Samstag max. 3 Wettfahrten, Sonntag max. 2 Wettfahrten) (bei fünf Wettfahrten ein Streicher) |
 | **Wertung:** | Low-Point-System |
-| **RL-Faktor:** | Yngling 1,2 / Finn Dinghy 1,05 Yngling-KV Wertung ab 8 teilnehmenden Booten |
+| **RL-Faktor:** | - |
 | **Steuermannbesprechung:** | Samstag 12:00 Uhr |
 | **Startzeiten:** | Samstag ab 13:00 Uhr Sonntag ab 10:00 Uhr, letzter Start 14:00 Uhr |
-| **Kontakt:** | _Regattawart_ Hennes Obermeyer Tel: +49-170-7582657 / [Mail-Kontakt](mailto:hennes.obermeyer@gmail.com) <br> _Yngling Obmann_ Manfred Böhm Tel: +49-171-9957106 / [Mail-Kontakt](mailto:manfred@myboehm.de) |
+| **Kontakt:** _Regattawart_ Hennes Obermeyer Tel: +49-170-7582657 / [Mail-Kontakt](mailto:hennes.obermeyer@gmail.com) <br> _Conger Obmann_ Julian Gunkel Tel: +49-173-7098475 / [Mail-Kontakt](mailto:gunkeljul@aol.com) |
 
 Wir freuen uns die aktiven Regattaseglerinnen und -segler als unsere Gäste begrüßen zu dürfen!
