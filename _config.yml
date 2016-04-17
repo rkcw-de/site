@@ -73,3 +73,11 @@ deploy:
     user: user
     password: password
   root: /www.rkcw.de
+
+# RSS Feed
+## Docs: https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 5
+  hub:
