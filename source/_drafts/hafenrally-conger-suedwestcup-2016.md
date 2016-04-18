@@ -14,7 +14,7 @@ Am 11. und 12. Juni findet die "420er Hafenrallye und Conger Südwestcup" Regatt
 
 <!-- more -->
 
-| **Regatta:** | &nbsp; | {% post_link regatta 'Allgemeine Informationen und Anfahrtsbeschreibung' %} |
+| **Regatta:** | &nbsp; | [Allgemeine Informationen und Anfahrtsbeschreibung](/regatta/) |
 | - | - | - |
 | **Wettfahrtregeln:** | &nbsp; | ISAF, DSV-WO/RO, Klassenvorschriften, RKC-Segelanweisungen |
 | **Wettfahrten:** | &nbsp; | max. 5 Wettfahrten (Samstag max. 3 Wettfahrten, Sonntag max. 2 Wettfahrten) <br> (bei fünf Wettfahrten ein Streicher) |

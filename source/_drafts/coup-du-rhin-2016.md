@@ -14,7 +14,7 @@ Am 8. und 9. Oktober findet die "Coupe du Rhin" Regatta (Wanderpokal Wörther Ha
 
 <!-- more -->
 
-| **Regatta:** | &nbsp; | {% post_link regatta 'Allgemeine Informationen und Anfahrtsbeschreibung' %} |
+| **Regatta:** | &nbsp; | [Allgemeine Informationen und Anfahrtsbeschreibung](/regatta/) |
 | - | - | - |
 | **Wettfahrtregeln:** | &nbsp; | ISAF, DSV-WO/RO, RKC-Segelanweisungen |
 | **Wettfahrten:** | &nbsp; | eine Wettfahrt am Samstag von sechs Stunden Dauer und eine Wettfahrt am Sonntag von sechs Stunden Dauer |
