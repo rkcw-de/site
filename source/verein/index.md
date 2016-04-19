@@ -52,10 +52,10 @@ Was der Verein zu bieten hat:
 
 Satzung und Preise
 ---
-Die Satzung des RKC Wörth e.V. sowie die aktuelle Preisliste können Sie unten als PDF herunterladen.
+Die Satzung des RKC Wörth e.V. sowie die aktuelle Preisliste können Sie hier als PDF herunterladen.
 
 - [Satzung (Stand 2012)](satzung_stand_2012.pdf)
-- [Preisliste (gültig ab 2015)](preisliste_ab_2015.pdf) und [Abbuchungsvollmacht](abbuchungsvollmacht.pdf)
+- [Preisliste (gültig ab 2016)](preisliste_ab_2016.pdf) und [Abbuchungsvollmacht](abbuchungsvollmacht.pdf)
 
 Vorstand
 ---
