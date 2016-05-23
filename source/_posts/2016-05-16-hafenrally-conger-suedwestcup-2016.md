@@ -8,8 +8,9 @@ photos:
   - 2015/05/29/420er-hafenrallye-conger-suedwestcup-2015/Ausschreibung-420er-und-Conger-2.jpg
   - 2015/05/29/420er-hafenrallye-conger-suedwestcup-2015/Ausschreibung-420er-und-Conger-1.jpg
 comments: false
-date: 2016-05-16 11:00:36
+date: 2016-05-23 11:00:36
 ---
+
 
 Am 11. und 12. Juni findet die "420er Hafenrallye und Conger Südwestcup" Regatta am RKC statt.
 
