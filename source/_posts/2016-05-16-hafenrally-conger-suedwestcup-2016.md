@@ -11,10 +11,11 @@ comments: false
 date: 2016-05-23 11:00:36
 ---
 
-
-Am 11. und 12. Juni findet die "420er Hafenrallye und Conger Südwestcup" Regatta am RKC statt.
+!!! ABGESAGT !!! Wegen Hochwasser müssen wir leider die Regatta absagen.
 
 <!-- more -->
+
+Am 11. und 12. Juni findet die "420er Hafenrallye und Conger Südwestcup" Regatta am RKC statt.
 
 | **Regatta:** | &nbsp; | [Allgemeine Informationen und Anfahrtsbeschreibung](/regatta/) |
 | - | - | - |
