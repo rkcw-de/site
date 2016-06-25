@@ -6,7 +6,7 @@ comments: false
 
 {% callout primary %}
 ### **Amtlicher Sportküstenführerschein (SKS), amtlicher Sportbootführerschein – See, Funkbetriebszeugnis (SRC)**
-  SBF-See und SKS **2016-17** [**Ausschreibung**](sbf-see_und_sks_2016-17.pdf) und [*Infoabend*](sbf-see_und_sks_infoabend_2015-16.pdf)
+  SBF-See und SKS **2016-17** [**Ausschreibung**](sbf-see_und_sks_2016-17.pdf) und [*Infoabend*](sbf-see_und_sks_infoabend_2016-17.pdf)
 
 ### **Amtlicher Sportbootführerschein – Binnen (SBF-Binnen)**
   SBF-Binnen **2016-17** [**Ausschreibung**](sbf-binnen_2016-17.pdf) und [*Infoabend*](sbf-binnen_infoabend_2016-17.pdf)
